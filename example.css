@@ -1,0 +1,58 @@
+.main_page
+{
+	background:#5d8e50;
+	width:1024px;
+	height:10003px:
+	
+}
+.header{
+	text-align:center;
+	background:black;
+	color:white;
+	width:1024px;;
+	height:100px;
+	font-weight:10px;
+	
+	
+}
+.table{
+	padding:100px;
+	margin:30px;
+	background:#555;
+	color:white;
+}
+.tab{
+	padding:100px;
+	margin:30px;
+	background:#999;
+	color:white;
+}
+
+.page{
+	text-align:center;
+	background:#666;
+	color:black;
+	width:1024px;;
+	height:50px;
+}
+.col{
+	background:red;
+	text-align:center;
+	color:#888;
+	height:50px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
